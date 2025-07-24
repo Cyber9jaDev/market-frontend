@@ -16,12 +16,6 @@ export const metadata: Metadata = {
   title: "Varsity Market",
   description: "Market for students to buy and sell items on campus in Nigeria",
   keywords: ["sell", "buy", "online store", "university", "marketplace", "varsity", "students", "college", "campus", "campus-marketplace"],
-  authors: [
-    {
-      name: "Ayodeji Oladapo",
-      url: "https://varsitymarket.com",
-    },
-  ],
   creator: "Ayodeji Oladapo",
 };
 
